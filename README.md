@@ -379,7 +379,7 @@ The repository is structured to clearly separate assets, documentation, and anal
 
 - **assets/** → Dashboard screenshots  
 - **docs/** → Business documentation and analytical notes  
-- **pbix/** → Power BI development file (available upon request for professional evaluation)
+- **pbix/** → Power BI development file
 
 ---
 
