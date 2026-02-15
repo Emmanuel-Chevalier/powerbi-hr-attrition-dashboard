@@ -379,6 +379,8 @@ The analysis is based on the IBM HR Analytics Employee Attrition & Performance d
 * **pbix/** → Power BI project file
 * **docs/** → Documentation and data sources
 
+The complete Power BI (.pbix) file is available upon request for professional evaluation.
+
 ---
 
 ## 👤 Author
