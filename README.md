@@ -262,7 +262,7 @@ All KPIs are centralized in a dedicated `_Measures` table, ensuring:
 - Reusable metric definitions  
 - Simplified model navigation  
 
-➜ Improves maintainability and analytical reliability.
+➜ Measures were optimized to avoid repeated context transitions and ensure model performance.
 
 
 
