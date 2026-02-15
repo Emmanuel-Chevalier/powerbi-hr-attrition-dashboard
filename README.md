@@ -86,7 +86,7 @@ Decision-makers must determine whether attrition is structurally driven by:
 
 ## 🔍 Key Insights (Executive Analysis)
 
-Based on the multidimensional analysis of **1,470 employees**, attrition is not evenly distributed — it is structurally concentrated in specific workforce segments.
+Based on the multidimensional analysis of **1,470 employees**, attrition is not evenly distributed, it is structurally concentrated in specific workforce segments.
 
 ---
 
