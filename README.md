@@ -88,9 +88,8 @@ Decision-makers must determine whether attrition is structurally driven by:
 
 Based on the multidimensional analysis of **1,470 employees**, attrition is not evenly distributed, it is structurally concentrated in specific workforce segments.
 
----
 
-### 🔹 1️⃣ Early-Tenure Structural Risk
+###  1️⃣ Early-Tenure Structural Risk
 
 The **first year of employment** represents a critical vulnerability point:
 
@@ -105,9 +104,9 @@ Potential drivers include:
 
 ➜ Early-tenure integration emerges as a high-impact retention lever.
 
----
 
-### 🔹 2️⃣ Overtime as a Major Risk Multiplier
+
+###  2️⃣ Overtime as a Major Risk Multiplier
 
 Attrition gap:
 
@@ -118,9 +117,9 @@ This nearly **3× increase** strongly suggests workload imbalance as a structura
 
 ➜ Workload exposure appears to be a systemic turnover driver.
 
----
 
-### 🔹 3️⃣ Role-Level Volatility
+
+###  3️⃣ Role-Level Volatility
 
 Attrition is concentrated in operational and customer-facing roles:
 
@@ -135,9 +134,9 @@ Potential structural exposure factors:
 
 ➜ Risk is unevenly distributed across departments.
 
----
 
-### 🔹 4️⃣ Early-Career Talent Retention Challenge
+
+###  4️⃣ Early-Career Talent Retention Challenge
 
 Employees under 30:
 
@@ -146,9 +145,9 @@ Employees under 30:
 
 ➜ Indicates generational retention dynamics requiring targeted development strategies.
 
----
 
-### 🔹 5️⃣ Compensation & Risk Concentration
+
+###  5️⃣ Compensation & Risk Concentration
 
 High-volatility roles also show lower average monthly salaries:
 
@@ -162,7 +161,7 @@ While causality cannot be inferred, this alignment suggests compensation sensiti
 
 Although causality is not directly established, the structural patterns highlight actionable retention levers.
 
----
+
 
 ### 🔹 Strengthen Early-Tenure Integration
 
@@ -170,7 +169,7 @@ Although causality is not directly established, the structural patterns highligh
 - Priority focus: onboarding & expectation alignment  
 - Potential solution: structured mentorship programs  
 
----
+
 
 ### 🔹 Monitor Workload Imbalance
 
@@ -179,7 +178,7 @@ Although causality is not directly established, the structural patterns highligh
 
 Workforce planning adjustments may reduce burnout-driven turnover.
 
----
+
 
 ### 🔹 Reassess High-Volatility Roles
 
@@ -190,7 +189,7 @@ Sales Representatives and Laboratory Technicians combine:
 
 Targeted benchmarking and clearer career pathways may improve stability.
 
----
+
 
 ### 🔹 Invest in Early-Career Retention
 
@@ -205,7 +204,7 @@ Internal mobility and development programs could mitigate this imbalance.
 
 ## 🚀 Technical Highlights
 
----
+
 
 ### 🔹 Context-Aware Ratio Calculations
 
@@ -217,7 +216,7 @@ Key structural indicators such as **Overtime Ratio %** were implemented using co
 
 ➜ Ensures dynamic recomputation across Department, Age Group, and Tenure Group while preventing division errors.
 
----
+
 
 ### 🔹 Structured Workforce Segmentation (Custom DAX Logic)
 
@@ -240,7 +239,7 @@ Raw numerical fields were transformed into analytically meaningful segments usin
 
 ➜ Directly revealed the **34.9% attrition spike** within the first year.
 
----
+
 
 ### 🔹 Controlled Visual Ordering (Sort Columns)
 
@@ -253,7 +252,7 @@ Custom numeric sort columns override alphabetical behavior:
 
 ➜ Reinforces analytical clarity in visuals.
 
----
+
 
 ### 🔹 Clean Measure Architecture
 
@@ -265,7 +264,7 @@ All KPIs are centralized in a dedicated `_Measures` table, ensuring:
 
 ➜ Improves maintainability and analytical reliability.
 
----
+
 
 ### 🔹 Executive-Oriented UX
 
