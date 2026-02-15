@@ -71,7 +71,7 @@ Decision-makers must determine whether attrition is structurally driven by:
 > [!TIP]  
 > Interactive tooltips enable granular data exploration.
 
-![HR Dashboard Overview](assets/hr-dashboard-desktop.png)
+![HR Dashboard - Desktop](assets/hr-attrition-dashboard-desktop.png)
 
 ---
 
@@ -80,7 +80,7 @@ Decision-makers must determine whether attrition is structurally driven by:
 > [!IMPORTANT]  
 > Fully responsive layout designed for executive-level monitoring on smartphones.
 
-![HR Dashboard Mobile Overview](assets/hr-dashboard-mobile.png)
+![HR Dashboard - Mobile](assets/hr-attrition-dashboard-mobile.png)
 
 ---
 
