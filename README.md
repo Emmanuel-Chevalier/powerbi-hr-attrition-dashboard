@@ -386,5 +386,4 @@ The repository is structured to clearly separate assets, documentation, and anal
 ## 👤 Author
 
 **Emmanuel Chevalier**  
-Power BI & Business Analytics
-Microsoft Power BI Data Analyst Professional Certificate
+Data Analyst | Power BI & Business Analytics | Microsoft Power BI Data Analyst Professional Certificate
